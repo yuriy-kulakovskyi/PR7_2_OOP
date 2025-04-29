@@ -1,0 +1,5 @@
+if(EXISTS "/Users/yura_kulakovskyi/Documents/C++/OOP/PR7/PR7_2/cmake-build-debug/PR7_2_tests[1]_tests.cmake")
+  include("/Users/yura_kulakovskyi/Documents/C++/OOP/PR7/PR7_2/cmake-build-debug/PR7_2_tests[1]_tests.cmake")
+else()
+  add_test(PR7_2_tests_NOT_BUILT PR7_2_tests_NOT_BUILT)
+endif()

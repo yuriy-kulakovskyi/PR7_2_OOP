@@ -1,0 +1,30 @@
+Start testing: Apr 29 07:46 EEST
+----------------------------------------------------------
+1/1 Testing: ListTests.removeListTest
+1/1 Test: ListTests.removeListTest
+Command: "/Users/yura_kulakovskyi/Documents/C++/OOP/PR7/PR7_2/cmake-build-debug/PR7_2_tests" "--gtest_filter=ListTests.removeListTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/OOP/PR7/PR7_2/cmake-build-debug
+"ListTests.removeListTest" start time: Apr 29 07:46 EEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/OOP/PR7/PR7_2/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ListTests.removeListTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListTests
+[ RUN      ] ListTests.removeListTest
+[       OK ] ListTests.removeListTest (0 ms)
+[----------] 1 test from ListTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ListTests.removeListTest" end time: Apr 29 07:46 EEST
+"ListTests.removeListTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 29 07:46 EEST
